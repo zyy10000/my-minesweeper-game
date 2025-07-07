@@ -1,0 +1,2 @@
+# my-minesweeper-game
+pictures
